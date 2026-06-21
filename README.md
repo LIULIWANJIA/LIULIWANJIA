@@ -21,7 +21,10 @@
   > 以防发布页或其他页面域名被墙，导致无法访问。
 
   ---
-
+  
+<p>
+  <img src="https://cloud.ccblackwall.cc/f/j2u3/icon.png" alt="logo" width="120" />
+</p>
 <h1>🌐 LIUSUCloud Client</h1>
 <p>
   <b>在标准代理之上，深度集成网站全功能的一站式客户端</b>
