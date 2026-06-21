@@ -22,7 +22,15 @@
 
   ---
 
-  ## 📦 LIUSUCloud 客户端下载
+<h1>🌐 LIUSUCloud Client</h1>
+<p>
+  <b>在标准代理之上，深度集成网站全功能的一站式客户端</b>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Download-Client-blue?style=for-the-badge" alt="download"/>
+  <img src="https://img.shields.io/badge/Features-集成功能-green?style=for-the-badge" alt="features"/>
+</p>
 
   ✨ **最新版本(2026-6)：`v2.4.0`**  
   📋 [查看发行版总览（Release Notes）](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/tag/2.4.0)
