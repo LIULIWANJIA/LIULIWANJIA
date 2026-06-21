@@ -5,7 +5,6 @@
     🧪 <strong>H2SO4 官网发布页</strong> ｜ 
     ☁️ <strong>LIUSUCloud 客户端下载站</strong>
   </p>
-  <img alt="latest version" src="https://img.shields.io/badge/LIUSUCloud-v2.4.0-blue?style=flat-square" />
 </div>
 
 ---
