@@ -12,7 +12,7 @@
 
 ## 🌐 H2SO4 官网发布页
 
-🚀 **官方地址：**  
+🚀 **官方地址(海外站)：**  
 [https://liuliwanjia.github.io](https://liuliwanjia.github.io)
 
 > ⚠️ **重要提醒**  
