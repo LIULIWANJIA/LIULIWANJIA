@@ -8,19 +8,6 @@
   </p>
 
   ---
-
-  ## 🌐 H2SO4 官网发布页
-
-  🚀 **官方地址(海外站)：**  
-  [https://liuliwanjia.github.io](https://liuliwanjia.github.io)
-  
-  [https://xnew.ccblackwall.cc](https://xnew.ccblackwall.cc)
-
-  > ⚠️ **重要提醒**  
-  > 请收藏此 GitHub 页面，以便及时获取最新地址。  
-  > 以防发布页或其他页面域名被墙，导致无法访问。
-
-  ---
   
 <p>
   <img src="https://cloud.ccblackwall.cc/f/j2u3/icon.png" alt="logo" width="120" />
@@ -45,6 +32,20 @@
   > 💡 推荐下载最新版本，以获得最佳体验与安全性更新。
 
   ---
+
+  ## 🌐 H2SO4 官网发布页
+
+  🚀 **官方地址(海外站)：**  
+  [https://liuliwanjia.github.io](https://liuliwanjia.github.io)
+  
+  [https://xnew.ccblackwall.cc](https://xnew.ccblackwall.cc)
+
+  > ⚠️ **重要提醒**  
+  > 请收藏此 GitHub 页面，以便及时获取最新地址。  
+  > 以防发布页或其他页面域名被墙，导致无法访问。
+
+  ---
+  
 
   <sub>💙 如果这个项目对你有帮助，欢迎点个 ⭐ Star 支持～</sub>
 
