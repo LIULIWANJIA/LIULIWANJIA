@@ -22,7 +22,7 @@
 
   ## 📦 LIUSUCloud 客户端下载
 
-  ✨ **最新版本：`v2.4.0`**  
+  ✨ **最新版本(2026-6)：`v2.4.0`**  
   📋 [查看发行版总览（Release Notes）](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/tag/2.4.0)
 
   | 平台 | 类型 | 下载 |
