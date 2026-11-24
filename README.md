@@ -20,15 +20,14 @@
 
 ✨ **版本：`v2.4.2`**  
 
-📋 [查看发行版总览（Release Notes）](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/tag/2.4.2)
+📋 [查看发行版总览（Release Notes）](https://github.com/LIULIWANJIA/LIULIWANJIA/releases)
 
-| 平台 | 类型 | 下载 |
-|------|------|------|
-| 🤖 **Android** | 通用版 | [![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=flat-square&logo=android)](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/download/2.4.2/LIUSUCloud-Android.apk) |
-| 💻 **Windows** | 安装包 | [![Download EXE](https://img.shields.io/badge/Download-EXE-blue?style=flat-square&logo=windows)](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/download/2.4.2/LIUSUCloud-Setup.exe) |
-| 💻 **Windows** | 便携版（解压即用） | [![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=flat-square&logo=windows)](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/download/2.4.2/LIUSUCloud-windows.zip) |
-| 🍎 **macOS** | Apple M 芯片 | [![Download ZIP](https://img.shields.io/badge/Download-ZIP-silver?style=flat-square&logo=apple)](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/download/2.4.2/LIUSUCloud-macOS-arm64.zip) |
-| 🍎 **macOS** | Intel 芯片 | [![Download ZIP](https://img.shields.io/badge/Download-ZIP-silver?style=flat-square&logo=apple)](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/download/2.4.2/LIUSUCloud-macOS-intel.zip) |
+| 平台 | 版本 | 下载 |
+|---|---|---|
+| 🤖 **Android** | 通用版 | [Download APK](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/latest/download/LIUSUCloud-Android.apk) |
+| 💻 **Windows** | 安装包 | [Download EXE](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/latest/download/LIUSUCloud-Setup.exe) |
+| 🍎 **macOS** | Apple M 芯片 | [Download ZIP](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/latest/download/LIUSUCloud-macOS-arm64.zip) |
+| 🍎 **macOS** | Intel 芯片 | [Download ZIP](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/latest/download/LIUSUCloud-macOS-intel.zip) |
 
 > 💡 推荐下载最新版本，以获得最佳体验与安全性更新。
 
