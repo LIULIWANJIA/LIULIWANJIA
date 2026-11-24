@@ -17,9 +17,6 @@
   <b>在标准代理之上，深度集成网站全功能的一站式客户端</b>
 </p>
 
-
-✨ **版本：`v2.4.2`**  
-
 📋 [查看发行版总览（Release Notes）](https://github.com/LIULIWANJIA/LIULIWANJIA/releases)
 
 | 平台 | 版本 | 下载 |
