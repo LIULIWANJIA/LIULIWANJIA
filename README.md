@@ -23,8 +23,8 @@
 |---|---|---|
 | 🤖 **Android** | 通用版 | [Download APK](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/latest/download/LIUSUCloud-Android.apk) |
 | 💻 **Windows** | 安装包 | [Download EXE](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/latest/download/LIUSUCloud-Setup.exe) |
-| 🍎 **macOS** | Apple M 芯片 | [Download ZIP](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/latest/download/LIUSUCloud-macOS-arm64.zip) |
-| 🍎 **macOS** | Intel 芯片 | [Download ZIP](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/latest/download/LIUSUCloud-macOS-intel.zip) |
+| 🍎 **macOS** | Apple M 芯片 | [Download ZIP](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/latest/download/LIUSUCloud-macOS-arm64.dmg) |
+| 🍎 **macOS** | Intel 芯片 | [Download ZIP](https://github.com/LIULIWANJIA/LIULIWANJIA/releases/latest/download/LIUSUCloud-macOS-intel.dmg) |
 
 > 💡 推荐下载最新版本，以获得最佳体验与安全性更新。
 
